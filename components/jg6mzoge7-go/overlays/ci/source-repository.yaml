@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jg6mzoge7-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jg6mzoge7-go
